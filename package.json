@@ -1,0 +1,12 @@
+{
+  "name": "sonarqube-github-actions-demo",
+  "version": "1.0.0",
+  "description": "Sample Node.js application for GitHub Actions and SonarQube",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
